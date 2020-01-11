@@ -1,5 +1,6 @@
 def new_hash
   shiny_new_hash = Hash.new
+  shiny_new_hash
 end
 
 require_relative 'spec_helper'
