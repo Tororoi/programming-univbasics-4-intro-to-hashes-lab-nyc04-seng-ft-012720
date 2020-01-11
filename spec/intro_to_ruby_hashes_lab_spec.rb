@@ -1,3 +1,7 @@
+def new_hash
+  Hash.new
+end
+
 require_relative 'spec_helper'
 require_relative '../intro_to_ruby_hashes_lab.rb'
 
